@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717424628287",
+    "project_id": "khawaja-takeaway",
+    "storage_bucket": "khawaja-takeaway.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717424628287:android:a06b3f6987ff98fd5d5e8a",
+        "android_client_info": {
+          "package_name": "com.example.khawajatakeaway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSOnQzQYsvHhKlAMv6QOSwFGvturIPm5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
